@@ -1,17 +1,9 @@
-👋 I'm Rushang — I build AI tools for small businesses
+# Hi, I'm Rushang Verma 👋
 
-I create custom AI assistants that handle customer 
-queries, recommend products, and save business owners 
-hours every week.
+### 🚀 Aspiring AI & Backend Engineer
+I build production-grade AI systems, asynchronous Python backends, and robust workflow automations.
 
-🤖 What I build:
-- AI chatbots for shops and stores
-- Automated customer support tools
-- Custom AI tools for specific business needs
+- 🛠️ **Current Stack:** Python, Git/GitHub, REST APIs, JSON, n8n
+- 📚 **Currently Mastering:** Stage 1 (Python Core & Version Control) of my AI Engineering Roadmap
+- 🎯 **Goal:** Building production RAG systems, AI Agents, and scalable FastAPI backends.
 
-💼 Live Demo:
-🔗 style-app-chatbot.streamlit.app
-
-📫 Reach me:
-Discord: datadev_r
-UPI accepted for Indian clients
